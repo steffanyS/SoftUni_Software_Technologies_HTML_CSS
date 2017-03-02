@@ -1,0 +1,22 @@
+.spanStyle
+{
+    border-style:solid;
+    border-radius: 20px;
+    border-width:1px;  
+    background-color: lightgrey;
+    display: inline-block;
+    width: 150px;
+    padding-left:50px
+}
+#red
+{
+    border-color: indianred;
+}
+#blue
+{
+    border-color: cornflowerblue;
+}
+#green
+{
+    border-color: limegreen;
+}
